@@ -1,0 +1,13 @@
+#min
+tp=(40,50,100)
+print(min(tp))
+#max
+tp=40,50,100)
+print(max(tp))
+#len
+tp=(40,50,100)
+print(len(tp))
+#slice
+tp=(40,50,100)
+print(tp[0])
+print(tp[0:3])
